@@ -17,7 +17,7 @@ Dependencies:
 
 ### Project motivation
 
-For this project we're trying to predict the prices of gasoline in Brazil to help people allocate more their money in this pandemic time.
+For this project we're trying to predict the prices of gasoline in Brazil to help people allocate better their money in this time of scarce resources.
 
 ### Contribution
 
